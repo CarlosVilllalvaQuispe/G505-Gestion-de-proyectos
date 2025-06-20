@@ -44,9 +44,9 @@ Interfaz Moderna y Adaptable
 
 2. Instala las dependencias:
    - bash
-   -- npm install
-   -- npm install @supabase/supabase-js
-   -- npm i gemini-ai
+   - npm install
+   - npm install @supabase/supabase-js
+   - npm i gemini-ai
 
 4. Configura las variables de entorno:
    - Renombra .env.example a .env.local y completa los valores necesarios (credenciales de autenticación, base de datos, etc.).
