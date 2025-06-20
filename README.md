@@ -35,7 +35,11 @@ Experiencia de usuario intuitiva y fluida
 🛠️ Instalación y Primeros Pasos
 Clona el repositorio: bash git clone https://github.com/tu-usuario/projex.git cd projex
 
-Instala las dependencias: bash npm install
+Instala las dependencias: 
+bash 
+  npm install
+  npm install @supabase/supabase-js
+  npm i gemini-ai
 
 Configura las variables de entorno:
 
