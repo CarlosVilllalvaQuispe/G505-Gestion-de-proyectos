@@ -45,17 +45,18 @@ Interfaz Moderna y Adaptable
 2. Instala las dependencias:
    bash
    npm install
-   
+   npm install @supabase/supabase-js
+   npm i gemini-ai
 
-3. Configura las variables de entorno:
+4. Configura las variables de entorno:
    - Renombra .env.example a .env.local y completa los valores necesarios (credenciales de autenticación, base de datos, etc.).
 
-4. Inicia la aplicación en modo desarrollo:
+5. Inicia la aplicación en modo desarrollo:
    bash
    npm run dev
    
 
-5. Accede a [http://localhost:3000](http://localhost:3000) para comenzar a usar ProjeX.
+6. Accede a [http://localhost:3000](http://localhost:3000) para comenzar a usar ProjeX.
 
 ## 📦 Tecnologías Utilizadas
 
