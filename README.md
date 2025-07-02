@@ -9,6 +9,7 @@ ProjeX es una aplicación moderna de gestión de proyectos desarrollada con Next
   - Lucas Eulogio Jaci
   - Taipe Martinez Sofia Gladys
   - Villalva Quispe Carlos
+  - Orellana Marcas Alan
 
 ## 🚀 Características Principales
 
