@@ -49,7 +49,11 @@ Interfaz Moderna y Adaptable
    - npm i gemini-ai
 
 4. Configura las variables de entorno:
-   - Renombra .env.example a .env.local y completa los valores necesarios (credenciales de autenticación, base de datos, etc.).
+   - Crear o edita .env.local y completa los valores necesarios (credenciales de autenticación, base de datos, etc.).
+   - RESEND_API_KEY=link
+   - NEXT_PUBLIC_SUPABASE_URL=link
+   - NEXT_PUBLIC_SUPABASE_ANON_KEY=link
+   - NEXT_PUBLIC_SUPABASE_STORAGE_URL=link
 
 5. Inicia la aplicación en modo desarrollo:
    bash
@@ -71,11 +75,6 @@ Interfaz Moderna y Adaptable
 ## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar ProjeX, por favor abre un issue o envía un pull request siguiendo las buenas prácticas del repositorio.
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
-
 ---
 
 ProjeX — Simplifica la gestión de proyectos y potencia el trabajo en equipo.
