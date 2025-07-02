@@ -2,6 +2,13 @@
 
 ProjeX es una aplicación moderna de gestión de proyectos desarrollada con Next.js, diseñada para ayudar a equipos a organizar, visualizar y dar seguimiento a su trabajo mediante una intuitiva interfaz Kanban. Optimiza la colaboración, mejora la productividad y centraliza la información clave de tus proyectos.
 
+## 🚀 Integrantes del equipo
+
+  - Alderete Condor Ingrid Yeanella
+  - Lucas Eulogio Jaci
+  - Taipe Martinez Sofia Gladys
+  - Villalva Quispe Carlos
+  - Orellana Marcas Alan
 ## 🚀 Características Principales
 
 Tablero Kanban Interactivo
