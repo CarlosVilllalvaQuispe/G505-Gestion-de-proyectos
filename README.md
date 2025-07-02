@@ -48,7 +48,7 @@ Interfaz Moderna y Adaptable
    - npm i gemini-ai
 
 4. Configura las variables de entorno:
-   - Crear o edita .env.local y completa los valores necesarios (credenciales de autenticación, base de datos, etc.).
+   - Crear o edita .env y completa los valores necesarios (credenciales de autenticación, base de datos, etc.), antes de eso nesecitas crear tu cuenta en supabase y crear tu base de datos, tambien crear y generar una llave api de Gemeni AI.
    - RESEND_API_KEY=link
    - NEXT_PUBLIC_SUPABASE_URL=link
    - NEXT_PUBLIC_SUPABASE_ANON_KEY=link
