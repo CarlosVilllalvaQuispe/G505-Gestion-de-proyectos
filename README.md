@@ -38,9 +38,8 @@ Interfaz Moderna y Adaptable
 
 1. Clona el repositorio:
    bash
-   git clone https://github.com/tu-usuario/projex.git
-   cd projex
-   
+   git clone https://github.com/CarlosVilllalvaQuispe/G505-Gestion-de-proyectos.git
+   cd projex  
 
 2. Instala las dependencias:
    - bash
